@@ -1,0 +1,11 @@
+memory_initialization_radix=16;
+memory_initialization_vector=
+20202020,
+4c656520,
+596f6e73,
+65692020,
+20202020,
+32303230,
+31343231,
+38392020,
+20202020;
